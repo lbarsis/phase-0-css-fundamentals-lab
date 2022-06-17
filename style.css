@@ -1,5 +1,36 @@
+* {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 100%;
-  height: 100%;
-  margin: 0;
+  text-align: center;
+}
+
+.nav-header a{
+  background-color: #bbbbbb;
+}
+
+img {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+#featured-property p {
+  width: 50%;
+  font-size: 15px;
+}
+
+#details div {
+  float: left;
+  width: 25%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-color: red;
 }
