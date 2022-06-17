@@ -14,6 +14,8 @@ body {
 
 .nav-header a{
   background-color: #bbbbbb;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 img {
